@@ -1,4 +1,4 @@
-package jhu.fse.goldteam.clue;
+package clue;
 
 public class RestService {
 

@@ -1,4 +1,4 @@
-package jhu.fse.goldteam.clue;
+package clue;
 
 import java.util.ArrayList;
 import java.util.Objects;
